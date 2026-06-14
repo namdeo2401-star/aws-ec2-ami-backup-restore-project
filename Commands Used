@@ -1,0 +1,19 @@
+# Commands Used
+
+## Create File
+
+```bash
+touch example.txt
+```
+
+## Write Content
+
+```bash
+echo "Hello" > example.txt
+```
+
+## Verify
+
+```bash
+cat example.txt
+```
